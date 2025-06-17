@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Prestij-Telekom\\kunefe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47B0191B-439E-66E4-48BC-15806903155F}|Assembly-CSharp.csproj|c:\\users\\prestij-telekom\\kunefe\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47B0191B-439E-66E4-48BC-15806903155F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47B0191B-439E-66E4-48BC-15806903155F}|Assembly-CSharp.csproj|C:\\Users\\Prestij-Telekom\\kunefe\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47B0191B-439E-66E4-48BC-15806903155F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47B0191B-439E-66E4-48BC-15806903155F}|Assembly-CSharp.csproj|c:\\users\\prestij-telekom\\kunefe\\assets\\animations\\animation scripts\\playeranimatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B0191B-439E-66E4-48BC-15806903155F}|Assembly-CSharp.csproj|solutionrelative:assets\\animations\\animation scripts\\playeranimatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CameraFollow.cs",
-              "DocumentMoniker": "C:\\Users\\Prestij-Telekom\\kunefe\\Assets\\Scripts\\CameraFollow.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
-              "ToolTip": "C:\\Users\\Prestij-Telekom\\kunefe\\Assets\\Scripts\\CameraFollow.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Title": "PlayerAnimatorController.cs",
+              "DocumentMoniker": "C:\\Users\\Prestij-Telekom\\kunefe\\Assets\\Animations\\Animation Scripts\\PlayerAnimatorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Animations\\Animation Scripts\\PlayerAnimatorController.cs",
+              "ToolTip": "C:\\Users\\Prestij-Telekom\\kunefe\\Assets\\Animations\\Animation Scripts\\PlayerAnimatorController.cs",
+              "RelativeToolTip": "Assets\\Animations\\Animation Scripts\\PlayerAnimatorController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA+wCMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T05:56:44.112Z",
+              "WhenOpened": "2025-06-14T07:09:03.721Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\Prestij-Telekom\\kunefe\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\Prestij-Telekom\\kunefe\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAIBBwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T16:54:47.832Z"
             }
           ]
         }

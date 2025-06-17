@@ -32,5 +32,8 @@ public class PlayerAnimatorController : MonoBehaviour
         transform.Translate(moveDirection * moveSpeed * Time.deltaTime, Space.World); // Move the player based on the input and speed
 
         animator.SetFloat("Speed", moveDirection.magnitude);// Set the animator parameter for speed based on the movement direction magnitude
+
+        //Movedirection mmagnitude degerini console'a yazdýrma (isteðe baðlý)
+        Debug.Log("Move Direction Magnitude: " + moveDirection.magnitude);
     }
 }
